@@ -5,7 +5,7 @@ Aplicação desenvolvida para auxiliar pequenas ONGs.
 # Tecnologias
 
 * JavaScript
-* Reac
+* React
 * React Native
 * SQLite
 
